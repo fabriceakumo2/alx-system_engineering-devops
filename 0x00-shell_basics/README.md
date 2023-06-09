@@ -1,1 +1,1 @@
-learn commands
+list all files and directories
